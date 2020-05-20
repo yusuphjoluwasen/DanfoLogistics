@@ -1,1 +1,1 @@
-A unique delivery service based inb Lagos
+A unique delivery service based in Lagos
