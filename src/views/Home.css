@@ -1,0 +1,186 @@
+
+
+
+
+
+
+.tops{
+    margin-right: 2em;
+}
+.margin_top_p_5 {
+    margin-top: 2em;
+}
+
+.customerFormSegment{
+    top: 30em !important;
+    background: none !important;
+    /*height: 20em;*/
+}
+
+.contactSegment{
+    top: 70em !important;
+    background: none !important;
+    /*height: 20em;*/
+}
+
+
+.inputSize{
+    width: 90%;
+    margin: auto;
+}
+
+.labelSize{
+    width: 90%;
+    text-align: left;
+    margin: auto auto 0.2em;
+    font-weight: bold;
+}
+
+
+.procedure {
+    /*background-color: white;*/
+
+}
+
+
+
+
+
+@media only screen and (max-width: 700px) {
+    .round_div {
+        width: 5em;
+        height: 5em;
+        background-color: #020000;
+        border-radius: 50%;
+        border-color: #ffffff;
+        border-width: thin;
+        border-style: solid;
+
+    }
+    .procedure_icon{
+        text-align: center;
+        margin-top: 0.5em;
+        height: 0.2em;
+        margin-bottom: 0.2em;
+
+    }
+    .procedure_text {
+
+        text-align: center;
+        font-size: 0.45em;
+        margin-left: 0.4em;
+        margin-right: 0.4em;
+        padding-top: 1.5em;
+
+    }
+    .procedure_grid_col{
+        /*background-color: blue;*/
+
+    }
+
+    .customerContainer {
+        width: 80%;
+    }
+
+    .sizing{
+        width: 70%;
+        margin-top: 2em;
+        margin-left: 3em;
+    }
+
+    .centered2 {
+        color: white;
+        font-weight: bold;
+        text-shadow: 1px 1px 0 #444;
+
+    }
+
+    .contactUsText{
+        margin-bottom: 1em;
+        margin-left: 2.5em;
+    }
+
+    .companyName{
+        color: white;
+    }
+
+    .About {
+        /*background-color: red;*/
+        /*height: 350px;*/
+        /*opacity: 0.5;*/
+
+    }
+
+
+
+}
+
+@media only screen and (min-width: 700px) {
+    .round_div {
+        width: 10em;
+        height: 10em;
+        background-color: #020000;
+        border-radius: 50%;
+        border-color: #ffffff;
+        border-width: thin;
+        border-style: solid;
+    }
+    .procedure_icon{
+        text-align: center;
+        margin-top: 1em;
+    }
+    .procedure_text {
+        text-align: center;
+        margin-left: 0.5em;
+        margin-right: 0.5em;
+    }
+
+    .customerContainer {
+        width: 50%;
+    }
+
+    .sizing{
+        width: 50%;
+        margin: 1em auto auto;
+    }
+
+    .centered2 {
+        color: white;
+        font-weight: bold;
+        text-shadow: 1px 1px 0 #444;
+        font-family: "Comic Sans MS", cursive, sans-serif;
+        font-size: 3em;
+    }
+
+    .contactUsText{
+        margin-bottom: 1em;
+        margin-left: 1em;
+    }
+
+    .companyName{
+        font-family: "Comic Sans MS", cursive, sans-serif;
+        color: white;
+    }
+
+    .About {
+        /*background-color: red;*/
+        /*height: 350px;*/
+        /*opacity: 0.5;*/
+        margin: 0;
+        width: 100%;
+    }
+
+
+
+}
+
+/*.centered {*/
+/*     position: absolute;*/
+/*     top: 40%;*/
+/*     left: 50%;*/
+/*     transform: translate(-50%, -50%);*/
+/*     color: white;*/
+/*     font-weight: bold;*/
+/*     text-shadow: 1px 1px 0 #444;*/
+/*     font-family: "Comic Sans MS", cursive, sans-serif;*/
+/* }*/
